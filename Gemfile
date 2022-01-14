@@ -8,6 +8,7 @@ gem "pg", "~> 1.1"
 
 # app
 gem 'devise'
+gem 'omniauth-google-oauth2'
 
 # The original asset pipeline for Rails [https://github.com/rails/sprockets-rails]
 gem "sprockets-rails"
